@@ -3,6 +3,13 @@ import csv
 from scripts.constants import UNIPROT_PATTERN, RFAM_PATTERN, RIBOSOMES_RFAM_MAPPING
 from collections import Counter
 
+UNMAPPED_COMPONENTS = {
+  "all": ("antibody", "Protein_", "RNA_", "DNA_", "DNA/RNA_"),
+  "protein": "Protein_",
+  "antibody": "antibody_",
+  "na": ("RNA_", "DNA_", "DNA/RNA_")
+}
+
 SYMMETRY_MAPPING = {}
 with open("data/symmetry_reference.csv") as f:
   csv_reader = csv.reader(f, delimiter=",")
@@ -170,6 +177,10 @@ def dict_compare(d1, d2):
     same = set(o for o in shared_keys if d1[o] == d2[o])
     return added, removed, modified, same
 
+def validate_unmapped(assembly_string, component_type="all"):
+  assembly_components = assembly_string.split(",")
+  unmapped_components = [component.startswith(UNMAPPED_COMPONENTS[component_type]) for component in assembly_components]
+  return all(unmapped_components)
 
 
 
