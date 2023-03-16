@@ -97,8 +97,7 @@ def get_unique_symmetries(symmetry_list):
 
 def get_assembly_type(assembly_string):
     """
-    Returns the assembly type whether
-    it's a homomeric, heteromeric or
+    Returns the assembly type whether it's a homomeric, heteromeric or
     monomeric
     """
     assembly_components = assembly_string.split(",")
@@ -166,6 +165,11 @@ def get_sym_variant(ref_symmetry, assemblies):
     if sym != ref_symmetry:
       variants.append(assembly)
   return ", ".join(variants)
+
+def validate_unmapped(assembly_string, component_type="all"):
+  assembly_components = assembly_string.split(",")
+  unmapped_components = [component.startswith(UNMAPPED_COMPONENTS[component_type]) for component in assembly_components]
+  return all(unmapped_components)
 
 def dict_compare(d1, d2):
     d1_keys = set(d1.keys())
