@@ -68,6 +68,15 @@ def validate_uniprot(assembly_string, query_type):
   uniprot_matches = [bool(re.search(UNIPROT_PATTERN, component)) for component in assembly_components]
   return query_type(uniprot_matches)
 
+def validate_rfam(assembly_string, query_type):
+  """
+  Returns whether any or all components in an assembly are mapped
+  to Rfam
+  """  
+  assembly_components = assembly_string.split(",")
+  rfam_matches = [bool(re.search(RFAM_PATTERN, component)) for component in assembly_components]
+  return query_type(rfam_matches)
+
 def assembly_composition(valid_protein, valid_RNA, valid_DNA):
     """
     Returns the assembly polymer composition
@@ -184,10 +193,10 @@ def get_sym_variant(ref_symmetry, assemblies):
       variants.append(assembly)
   return ", ".join(variants)
 
-def validate_unmapped(assembly_string, component_type="all"):
-  assembly_components = assembly_string.split(",")
-  unmapped_components = [component.startswith(UNMAPPED_COMPONENTS[component_type]) for component in assembly_components]
-  return all(unmapped_components)
+# def validate_unmapped(assembly_string, component_type="all"):
+#   assembly_components = assembly_string.split(",")
+#   unmapped_components = [component.startswith(UNMAPPED_COMPONENTS[component_type]) for component in assembly_components]
+#   return all(unmapped_components)
 
 def dict_compare(d1, d2):
     d1_keys = set(d1.keys())
@@ -217,17 +226,20 @@ def get_exp_methods(assemblies_string):
   assemblies = {assembly.split("_")[0] for assembly in assemblies}
 
   for assembly in assemblies:
-      assembly_exp_method = EXP_METHOD.get(assembly, "")
-      if "NMR" in assembly_exp_method:
+      assembly_exp_method = EXP_METHOD.get(assembly)
+      if assembly_exp_method == "hybrid":
+          exp_method_per_composition.add("Hybrid")
+      elif assembly_exp_method == "x-ray":
+          exp_method_per_composition.add("X-ray")
+      elif assembly_exp_method == "nmr":
           exp_method_per_composition.add("NMR")
-      elif "X-RAY DIFFRACTION" in assembly_exp_method:
-          exp_method_per_composition.add("X-ray diffraction")
-      elif "ELECTRON MICROSCOPY" in assembly_exp_method:
-          exp_method_per_composition.add("EM")
-      elif assembly_exp_method == "CRYO-ELECTRON MICROSCOPY":
-          exp_method_per_composition.add("EM")
-      else:
+      elif assembly_exp_method == "other":
           exp_method_per_composition.add("Other")
+      elif assembly_exp_method == "em":
+          exp_method_per_composition.add("EM")
+      elif assembly_exp_method == "sas":
+          exp_method_per_composition.add("SAS")
+      
   combined_methods = sorted(list(exp_method_per_composition)) 
   return ",".join(combined_methods) 
 
