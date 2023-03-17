@@ -17,6 +17,24 @@ with open("data/symmetry_reference.csv") as f:
   for line in csv_reader:
     SYMMETRY_MAPPING[line[0]] = line[1]
 
+EXP_METHOD = {}
+with open("data/pdb_exp_method.csv") as f:
+  csv_reader = csv.reader(f, delimiter=",")
+  next(csv_reader)
+  for line in csv_reader:
+    EXP_METHOD[line[0]] = line[1]
+
+UNP_TAX_NAME = {}
+with open("data/uniprot_tax.csv") as f:
+    csv_reader = csv.reader(f, delimiter=",")
+    next(csv_reader) # skip header row
+    for row in csv_reader:
+        species_name = row[2].split(" ")
+        if len(species_name) == 2:
+            UNP_TAX_NAME[row[0]] = row[2]
+        elif len(species_name) > 2:
+            UNP_TAX_NAME[row[0]] = " ".join(species_name[:2])
+
 def check_for_protein(assembly_string):
   if re.search(UNIPROT_PATTERN, assembly_string):
     return True
@@ -185,6 +203,34 @@ def validate_unmapped(assembly_string, component_type="all"):
   assembly_components = assembly_string.split(",")
   unmapped_components = [component.startswith(UNMAPPED_COMPONENTS[component_type]) for component in assembly_components]
   return all(unmapped_components)
+
+def get_species_name(assembly_components_string):
+  assembly_components = assembly_components_string.split(",")
+  component_accession = [component.split("_")[0] for component in assembly_components]
+  components_names = [UNP_TAX_NAME.get(component) for component in component_accession]
+  most_frequent_name = Counter(components_names)
+  return most_frequent_name.most_common(1)[0][0]
+
+def get_exp_methods(assemblies_string):
+  exp_method_per_composition = set()
+  assemblies = assemblies_string.split(",")
+  assemblies = {assembly.split("_")[0] for assembly in assemblies}
+
+  for assembly in assemblies:
+      assembly_exp_method = EXP_METHOD.get(assembly, "")
+      if "NMR" in assembly_exp_method:
+          exp_method_per_composition.add("NMR")
+      elif "X-RAY DIFFRACTION" in assembly_exp_method:
+          exp_method_per_composition.add("X-ray diffraction")
+      elif "ELECTRON MICROSCOPY" in assembly_exp_method:
+          exp_method_per_composition.add("EM")
+      elif assembly_exp_method == "CRYO-ELECTRON MICROSCOPY":
+          exp_method_per_composition.add("EM")
+      else:
+          exp_method_per_composition.add("Other")
+  combined_methods = sorted(list(exp_method_per_composition)) 
+  return ",".join(combined_methods) 
+
 
 
 
