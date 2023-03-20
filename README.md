@@ -2,7 +2,7 @@ PDBe Assembly Analysis
 ==
 
 ## Disclaimer
-This is a repository of a Jupyter notebook, which is supplementary material for the publication:
+This is a repository of a [Jupyter notebook](https://github.com/PDBe-KB/pdbe-assemblies-analysis/blob/main/assemblies_analysis.ipynb), which is supplementary material for the publication:
 
 **"Annotating Macromolecular Complexes in the Protein Data Bank: Improving the FAIRness of Structure Data"**, Sri A et al., BioRxiv
 
