@@ -4,7 +4,9 @@ PDBe Assembly Analysis
 ## Disclaimer
 This is a repository of a [Jupyter notebook](https://github.com/PDBe-KB/pdbe-assemblies-analysis/blob/main/assemblies_analysis.ipynb), which is supplementary material for the publication:
 
-**"Annotating Macromolecular Complexes in the Protein Data Bank: Improving the FAIRness of Structure Data"**, Sri A et al., BioRxiv
+**Publication**<br>
+Appasamy, S.D., Berrisford, J., Gaborova, R., Nair, S., Anyango, S., Grudinin, S., Deshpande, M., Armstrong, D., Pidruchna, I., Ellaway, J.I.J., Leines, G.D., Gupta, D., Harrus, D., Varadi, M. and Velankar, S. (2023) Annotating macromolecular complexes in the Protein Data Bank: improving the FAIRness of structure data. Scientific Data, 10, 853. https://doi.org/10.1038/s41597-023-02778-9
+.
 
 The code in this notebook reproduces the analysis presented in the publication.
 
