@@ -8,6 +8,9 @@ This is a repository of a [Jupyter notebook](https://github.com/PDBe-KB/pdbe-ass
 
 The code in this notebook reproduces the analysis presented in the publication.
 
+> **Update (October 2025):**  
+> The data CSV files in the `data/` directory have been updated to align with the analyses prepared for the **PDBe-KB Complexes** draft manuscript.  
+
 ## Google Colab
 An interactive version of this Jupyter notebook is [available here](https://colab.research.google.com/github/PDBe-KB/pdbe-assemblies-analysis/blob/main/assemblies_analysis.ipynb).
 
