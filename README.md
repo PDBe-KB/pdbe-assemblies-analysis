@@ -1,4 +1,4 @@
-PDBe Assembly Analysis
+Analysis of macromolecular complexes data in the PDB
 ==
 
 ## Disclaimer
