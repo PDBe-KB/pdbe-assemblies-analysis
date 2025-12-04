@@ -68,7 +68,6 @@ PDB-CPX-100091,7z4o,2,short RNA,1
 PDB-CPX-100102,9g43,1,peptide,1
 PDB-CPX-100102,9g8h,1,peptide,1
 PDB-CPX-100105,9n11,1,short RNA,1
-PDB-CPX-100106,9n07,1,short RNA,1
 PDB-CPX-100107,6yst,1,tRNA,1
 PDB-CPX-100107,6yst,1,mRNA,1
 PDB-CPX-100108,6ysu,1,tRNA,1
@@ -117,7 +116,6 @@ PDB-CPX-100150,8urx,1,tRNA,2
 PDB-CPX-100151,7cpj,1,tRNA,1
 PDB-CPX-100151,7cpj,1,mRNA,1
 PDB-CPX-100153,6s0k,1,short RNA,1
-PDB-CPX-100156,9n2n,1,short DNA,4
 PDB-CPX-100161,7e53,1,antibody,1
 PDB-CPX-100173,6mjz,1,antibody,2
 PDB-CPX-100174,8tqk,1,antibody,3
@@ -361,6 +359,8 @@ PDB-CPX-100953,6p07,1,peptide,1
 PDB-CPX-100954,3epd,1,peptide,60
 PDB-CPX-100977,4ut6,1,antibody,2
 PDB-CPX-100977,4ut6,2,antibody,2
+PDB-CPX-100977,4uta,1,antibody,2
+PDB-CPX-100977,4uta,2,antibody,2
 PDB-CPX-100977,4utb,1,antibody,2
 PDB-CPX-100977,4utb,2,antibody,2
 PDB-CPX-100978,5n09,1,antibody,4
@@ -371,7 +371,6 @@ PDB-CPX-100987,9jqv,2,antibody,2
 PDB-CPX-100988,8wsu,1,antibody,4
 PDB-CPX-100991,6veq,1,antibody,2
 PDB-CPX-100991,6veq,2,antibody,2
-PDB-CPX-100994,7elh,1,short RNA,1
 PDB-CPX-100995,8cz5,1,antibody,2
 PDB-CPX-101006,9msd,1,antibody,12
 PDB-CPX-101030,9cf2,1,short DNA,2
@@ -555,7 +554,6 @@ PDB-CPX-102352,6wex,1,antibody,6
 PDB-CPX-102369,4yv9,1,peptide,2
 PDB-CPX-102369,4yv9,2,peptide,2
 PDB-CPX-102379,6j9e,1,short RNA,1
-PDB-CPX-102381,8tw6,1,antibody,1
 PDB-CPX-102384,3mlu,1,antibody,2
 PDB-CPX-102384,6mnq,1,antibody,2
 PDB-CPX-102384,6mnr,1,antibody,2
@@ -745,8 +743,6 @@ PDB-CPX-102954,6d6v,1,short DNA,1
 PDB-CPX-102955,7qiz,1,mRNA,1
 PDB-CPX-102955,7qiz,1,short RNA,2
 PDB-CPX-102956,7qiw,1,short RNA,1
-PDB-CPX-102978,4v42,1,tRNA,3
-PDB-CPX-102978,4v42,1,mRNA,1
 PDB-CPX-102999,5kvd,1,antibody,2
 PDB-CPX-102999,5kvf,1,antibody,2
 PDB-CPX-102999,5kvg,1,antibody,2
@@ -1113,6 +1109,7 @@ PDB-CPX-104483,9f7m,2,short RNA,2
 PDB-CPX-104483,9f7m,3,short RNA,2
 PDB-CPX-104483,9f7m,4,short RNA,2
 PDB-CPX-104490,9ul1,1,peptide,2
+PDB-CPX-104492,9iyi,1,antibody,8
 PDB-CPX-104492,9iz9,1,antibody,8
 PDB-CPX-104518,3j7r,1,tRNA,2
 PDB-CPX-104518,3j7r,1,mRNA,1
@@ -1242,8 +1239,6 @@ PDB-CPX-105162,8w7l,1,peptide,2
 PDB-CPX-105165,6rjg,1,short DNA,1
 PDB-CPX-105166,6rj9,1,short DNA,1
 PDB-CPX-105167,6rja,1,short DNA,2
-PDB-CPX-105179,8fr8,1,tRNA,1
-PDB-CPX-105179,8fr8,1,mRNA,1
 PDB-CPX-105180,8vio,1,tRNA,1
 PDB-CPX-105218,8ww7,1,short DNA,1
 PDB-CPX-105219,8ww9,1,short DNA,2
@@ -1372,6 +1367,7 @@ PDB-CPX-105944,7unc,1,short RNA,1
 PDB-CPX-105945,7und,1,short RNA,1
 PDB-CPX-105961,9ast,1,antibody,2
 PDB-CPX-105974,8gms,1,short DNA,1
+PDB-CPX-106000,9yp2,1,antibody,2
 PDB-CPX-106003,8g30,1,antibody,8
 PDB-CPX-106003,8g3m,1,antibody,6
 PDB-CPX-106003,8g3n,1,antibody,8
@@ -1380,7 +1376,6 @@ PDB-CPX-106031,7kqh,1,antibody,2
 PDB-CPX-106031,7kqh,2,antibody,2
 PDB-CPX-106033,7el3,1,short DNA,2
 PDB-CPX-106036,9bs6,1,short DNA,2
-PDB-CPX-106067,6e0o,1,short RNA,1
 PDB-CPX-106098,8ppl,1,tRNA,1
 PDB-CPX-106100,8tio,1,antibody,2
 PDB-CPX-106101,8efk,1,short DNA,1
@@ -1397,9 +1392,6 @@ PDB-CPX-106122,8uhg,1,short RNA,1
 PDB-CPX-106123,8ui0,1,short RNA,1
 PDB-CPX-106124,8w8e,1,short RNA,1
 PDB-CPX-106125,8w8f,1,short RNA,1
-PDB-CPX-106126,8wav,1,short RNA,1
-PDB-CPX-106128,8way,1,short RNA,1
-PDB-CPX-106129,8wb0,1,short RNA,1
 PDB-CPX-106130,9fd2,1,short RNA,1
 PDB-CPX-106131,7ycx,1,peptide,1
 PDB-CPX-106131,7ycx,1,short RNA,1
@@ -1414,8 +1406,6 @@ PDB-CPX-106140,7mlv,1,antibody,8
 PDB-CPX-106141,7mly,1,antibody,8
 PDB-CPX-106142,7mlu,1,antibody,10
 PDB-CPX-106147,8uis,1,short RNA,1
-PDB-CPX-106148,8wat,1,short RNA,1
-PDB-CPX-106150,8wax,1,short RNA,1
 PDB-CPX-106167,9blx,1,antibody,2
 PDB-CPX-106167,9blx,2,antibody,2
 PDB-CPX-106168,9bp1,1,antibody,4
@@ -1677,8 +1667,6 @@ PDB-CPX-107047,9mso,2,antibody,2
 PDB-CPX-107047,9msp,1,antibody,2
 PDB-CPX-107047,9msp,2,antibody,2
 PDB-CPX-107082,8ykd,1,antibody,3
-PDB-CPX-107126,9dvc,1,antibody,2
-PDB-CPX-107127,9dvb,1,antibody,4
 PDB-CPX-107128,9msy,1,antibody,12
 PDB-CPX-107136,9asd,1,antibody,1
 PDB-CPX-107154,7x46,1,antibody,120
@@ -1909,8 +1897,6 @@ PDB-CPX-108312,6jur,1,short DNA,2
 PDB-CPX-108312,6jur,2,short DNA,2
 PDB-CPX-108312,6jus,1,short DNA,2
 PDB-CPX-108312,6jus,2,short DNA,2
-PDB-CPX-108317,9k0z,1,tRNA,1
-PDB-CPX-108317,9k0z,1,mRNA,1
 PDB-CPX-108323,5o60,1,short RNA,1
 PDB-CPX-108329,8wic,1,tRNA,1
 PDB-CPX-108334,8qu6,1,short DNA,1
@@ -2032,6 +2018,7 @@ PDB-CPX-109188,4qm6,1,short RNA,2
 PDB-CPX-109188,4qm7,1,short DNA,1
 PDB-CPX-109191,4ckq,1,peptide,1
 PDB-CPX-109206,7m52,1,antibody,2
+PDB-CPX-109219,9l9t,1,peptide,2
 PDB-CPX-109225,7n2n,1,antibody,2
 PDB-CPX-109225,7n2r,1,antibody,2
 PDB-CPX-109225,7n2s,1,antibody,2
@@ -2134,7 +2121,6 @@ PDB-CPX-109577,6d8f,1,short RNA,1
 PDB-CPX-109577,6d8f,2,short RNA,1
 PDB-CPX-109609,5o6u,1,short DNA,1
 PDB-CPX-109638,7tau,1,peptide,60
-PDB-CPX-109641,6ce0,1,antibody,4
 PDB-CPX-109642,4jna,1,peptide,1
 PDB-CPX-109642,4jna,2,peptide,1
 PDB-CPX-109669,5v1d,1,peptide,2
@@ -2587,10 +2573,9 @@ PDB-CPX-112690,9hhr,1,antibody,6
 PDB-CPX-112745,7zhh,1,short RNA,1
 PDB-CPX-112749,6h3r,1,short DNA,2
 PDB-CPX-112749,6h3r,2,short DNA,2
-PDB-CPX-112750,9jy0,1,antibody,2
-PDB-CPX-112751,9jy1,1,antibody,4
 PDB-CPX-112753,9ci8,1,antibody,4
 PDB-CPX-112753,9cia,1,antibody,4
+PDB-CPX-112753,9jy2,1,antibody,2
 PDB-CPX-112771,7d3t,1,short DNA,2
 PDB-CPX-112771,7d3t,2,short DNA,2
 PDB-CPX-112804,3e6c,1,short DNA,4
@@ -2828,8 +2813,6 @@ PDB-CPX-113700,9c0k,1,antibody,1
 PDB-CPX-113711,6fy3,1,antibody,2
 PDB-CPX-113711,6fy3,2,antibody,2
 PDB-CPX-113713,4lsv,1,antibody,2
-PDB-CPX-113713,7ri1,1,antibody,1
-PDB-CPX-113713,7ri2,1,antibody,1
 PDB-CPX-113715,7ur6,1,antibody,6
 PDB-CPX-113715,9btj,1,antibody,2
 PDB-CPX-113717,6w7a,1,short DNA,1
@@ -2938,6 +2921,10 @@ PDB-CPX-114205,9d98,1,antibody,6
 PDB-CPX-114213,9mi0,1,antibody,12
 PDB-CPX-114214,9ehl,1,antibody,12
 PDB-CPX-114214,9ehm,1,antibody,10
+PDB-CPX-114215,8ulr,1,antibody,6
+PDB-CPX-114215,8uls,1,antibody,6
+PDB-CPX-114215,8ult,1,antibody,6
+PDB-CPX-114215,8ulu,1,antibody,8
 PDB-CPX-114215,9d1w,1,antibody,2
 PDB-CPX-114215,9d3d,1,antibody,2
 PDB-CPX-114215,9d7h,1,antibody,2
@@ -4727,6 +4714,7 @@ PDB-CPX-120160,5y2d,1,peptide,5
 PDB-CPX-120161,5y28,1,peptide,1
 PDB-CPX-120163,7vzr,1,peptide,2
 PDB-CPX-120169,7t92,1,antibody,2
+PDB-CPX-120176,9nk8,1,peptide,1
 PDB-CPX-120197,6gci,1,antibody,1
 PDB-CPX-120203,6ywo,1,short RNA,1
 PDB-CPX-120203,6ywo,2,short RNA,1
@@ -5065,6 +5053,7 @@ PDB-CPX-121719,8idi,2,antibody,1
 PDB-CPX-121719,8ido,1,antibody,1
 PDB-CPX-121719,8ido,2,antibody,1
 PDB-CPX-121719,8tmz,1,antibody,2
+PDB-CPX-121719,9ixv,1,antibody,2
 PDB-CPX-121722,8iee,1,antibody,2
 PDB-CPX-121723,7v5j,1,antibody,6
 PDB-CPX-121723,7v5k,1,antibody,6
@@ -5158,6 +5147,7 @@ PDB-CPX-122007,9lf8,1,antibody,2
 PDB-CPX-122007,9lf8,2,antibody,2
 PDB-CPX-122007,9lf8,3,antibody,2
 PDB-CPX-122007,9lf8,4,antibody,2
+PDB-CPX-122007,9vhz,1,antibody,2
 PDB-CPX-122009,7tz5,1,antibody,6
 PDB-CPX-122024,6ur5,1,antibody,2
 PDB-CPX-122024,6ur5,2,antibody,2
@@ -5196,11 +5186,10 @@ PDB-CPX-122278,7vdl,1,antibody,2
 PDB-CPX-122279,7s8l,1,antibody,2
 PDB-CPX-122281,5m32,1,peptide,2
 PDB-CPX-122283,9e8g,1,peptide,1
-PDB-CPX-122285,9e8n,1,peptide,1
 PDB-CPX-122286,9e8j,1,peptide,1
 PDB-CPX-122286,9e8l,1,peptide,1
-PDB-CPX-122287,9e8k,1,peptide,1
 PDB-CPX-122295,8usc,1,peptide,1
+PDB-CPX-122305,9m2w,1,peptide,1
 PDB-CPX-122305,9ug9,1,peptide,1
 PDB-CPX-122322,6opj,1,peptide,1
 PDB-CPX-122326,4i80,1,peptide,2
@@ -5254,6 +5243,7 @@ PDB-CPX-122411,6fqr,1,short RNA,1
 PDB-CPX-122436,4xrs,1,short DNA,2
 PDB-CPX-122436,4xrs,2,short DNA,2
 PDB-CPX-122437,5ego,1,short DNA,2
+PDB-CPX-122441,8zjy,1,antibody,2
 PDB-CPX-122444,6xlq,1,antibody,2
 PDB-CPX-122444,6xlq,2,antibody,2
 PDB-CPX-122444,6xlq,3,antibody,2
@@ -5261,6 +5251,8 @@ PDB-CPX-122444,6xlq,4,antibody,2
 PDB-CPX-122445,9j5j,1,antibody,2
 PDB-CPX-122445,9j5m,1,antibody,2
 PDB-CPX-122446,9jqp,1,antibody,4
+PDB-CPX-122447,8zjx,1,antibody,2
+PDB-CPX-122447,8zk0,1,antibody,2
 PDB-CPX-122447,9jqr,1,antibody,2
 PDB-CPX-122451,2a66,1,short DNA,2
 PDB-CPX-122451,5l0m,1,short DNA,2
@@ -5440,8 +5432,6 @@ PDB-CPX-123189,5usb,1,short DNA/RNA,1
 PDB-CPX-123189,5usn,1,short DNA/RNA,1
 PDB-CPX-123189,5uso,1,short DNA/RNA,1
 PDB-CPX-123189,7cuh,1,short DNA,1
-PDB-CPX-123194,9cy7,1,short RNA,1
-PDB-CPX-123194,9cy7,2,short RNA,1
 PDB-CPX-123200,6jq0,1,peptide,1
 PDB-CPX-123211,6ppn,1,short RNA,1
 PDB-CPX-123211,6ppn,2,short RNA,1
@@ -6291,6 +6281,7 @@ PDB-CPX-126713,6uun,1,antibody,1
 PDB-CPX-126716,8f0k,1,antibody,1
 PDB-CPX-126716,8f2a,1,antibody,1
 PDB-CPX-126716,8f2b,1,antibody,1
+PDB-CPX-126716,9btw,1,antibody,1
 PDB-CPX-126717,7tzf,1,antibody,1
 PDB-CPX-126718,6uus,1,antibody,1
 PDB-CPX-126719,6uva,1,antibody,1
@@ -6771,10 +6762,14 @@ PDB-CPX-128575,8yw9,1,antibody,2
 PDB-CPX-128575,9knw,1,antibody,1
 PDB-CPX-128575,9knx,1,antibody,1
 PDB-CPX-128575,9kny,1,antibody,1
+PDB-CPX-128581,9x8s,1,peptide,2
+PDB-CPX-128581,9x8u,1,peptide,2
 PDB-CPX-128599,8r8r,1,short RNA,1
 PDB-CPX-128601,6dnh,1,short RNA,1
 PDB-CPX-128601,6fuw,1,short RNA,1
 PDB-CPX-128601,8e3i,1,short RNA,1
+PDB-CPX-128601,9oxe,1,short RNA,1
+PDB-CPX-128601,9oxs,1,short RNA,1
 PDB-CPX-128607,1a66,1,short DNA,2
 PDB-CPX-128615,7lh9,1,short DNA,4
 PDB-CPX-128615,7lh9,2,short DNA,2
@@ -7001,6 +6996,8 @@ PDB-CPX-129247,5ob1,1,peptide,1
 PDB-CPX-129247,7pvx,1,peptide,1
 PDB-CPX-129247,7pvx,2,peptide,1
 PDB-CPX-129248,9bt8,1,antibody,3
+PDB-CPX-129248,9cx3,1,antibody,3
+PDB-CPX-129248,9cx9,1,antibody,2
 PDB-CPX-129251,1f1w,2,peptide,2
 PDB-CPX-129251,1f1w,3,peptide,2
 PDB-CPX-129251,4hvu,2,peptide,2
@@ -7560,6 +7557,8 @@ PDB-CPX-129913,3iiq,1,peptide,1
 PDB-CPX-129913,3iiq,2,peptide,1
 PDB-CPX-129913,3s04,1,peptide,1
 PDB-CPX-129913,3s04,2,peptide,1
+PDB-CPX-129913,9nlo,1,peptide,1
+PDB-CPX-129913,9nlo,2,peptide,1
 PDB-CPX-129914,3s04,3,peptide,2
 PDB-CPX-129920,4m3k,1,antibody,1
 PDB-CPX-129920,4n1h,1,antibody,1
@@ -7600,6 +7599,8 @@ PDB-CPX-130094,4pyw,1,peptide,2
 PDB-CPX-130094,6hx4,1,antibody,2
 PDB-CPX-130094,6hx4,2,antibody,2
 PDB-CPX-130095,6i3z,1,antibody,2
+PDB-CPX-130095,9hud,1,antibody,2
+PDB-CPX-130095,9hud,2,antibody,2
 PDB-CPX-130096,9ggp,1,antibody,2
 PDB-CPX-130104,3cvh,1,antibody,1
 PDB-CPX-130104,3cvh,2,antibody,1
@@ -7686,6 +7687,7 @@ PDB-CPX-130317,8i5c,10,antibody,2
 PDB-CPX-130317,8i5d,1,antibody,2
 PDB-CPX-130344,8be4,1,antibody,1
 PDB-CPX-130344,8be5,1,antibody,2
+PDB-CPX-130348,9i5e,1,antibody,2
 PDB-CPX-130356,7w5r,1,peptide,2
 PDB-CPX-130361,4qci,1,antibody,2
 PDB-CPX-130361,4qci,2,antibody,2
@@ -7815,7 +7817,6 @@ PDB-CPX-130569,7elj,1,peptide,1
 PDB-CPX-130573,5kqv,1,antibody,8
 PDB-CPX-130577,3kr3,1,antibody,2
 PDB-CPX-130585,7f8w,1,antibody,2
-PDB-CPX-130585,7xow,1,antibody,2
 PDB-CPX-130587,4mxw,1,antibody,2
 PDB-CPX-130587,4mxw,2,antibody,2
 PDB-CPX-130588,4mxv,1,antibody,6
@@ -7842,13 +7843,19 @@ PDB-CPX-130608,9gcn,1,antibody,1
 PDB-CPX-130608,9gcn,2,antibody,1
 PDB-CPX-130608,9gcn,3,antibody,1
 PDB-CPX-130608,9gcn,4,antibody,1
+PDB-CPX-130608,9huo,1,antibody,2
+PDB-CPX-130608,9huo,2,antibody,2
 PDB-CPX-130611,9fyt,1,antibody,4
 PDB-CPX-130612,7pc0,1,antibody,1
 PDB-CPX-130613,6zfm,1,peptide,2
 PDB-CPX-130620,8r4n,1,antibody,2
 PDB-CPX-130620,8v13,1,antibody,2
 PDB-CPX-130620,8v13,2,antibody,2
+PDB-CPX-130621,9riu,1,antibody,1
+PDB-CPX-130621,9riu,2,antibody,1
 PDB-CPX-130622,8s72,1,antibody,4
+PDB-CPX-130634,9rit,1,antibody,1
+PDB-CPX-130634,9rit,2,antibody,1
 PDB-CPX-130638,4aei,1,antibody,2
 PDB-CPX-130638,4aei,2,antibody,2
 PDB-CPX-130638,4aei,3,antibody,2
@@ -7890,8 +7897,6 @@ PDB-CPX-130687,9pzi,1,antibody,2
 PDB-CPX-130687,9pzi,2,antibody,2
 PDB-CPX-130687,9pzi,3,antibody,2
 PDB-CPX-130688,9bei,1,antibody,3
-PDB-CPX-130694,3ux9,1,antibody,2
-PDB-CPX-130694,3ux9,2,antibody,2
 PDB-CPX-130695,4z5r,1,antibody,2
 PDB-CPX-130695,4z5r,2,antibody,2
 PDB-CPX-130695,4z5r,3,antibody,2
@@ -7925,6 +7930,7 @@ PDB-CPX-130720,7f9w,1,antibody,2
 PDB-CPX-130721,3iu3,1,antibody,1
 PDB-CPX-130721,3iu3,2,antibody,1
 PDB-CPX-130721,3iu3,3,antibody,1
+PDB-CPX-130722,9kmc,1,antibody,2
 PDB-CPX-130732,8ady,1,antibody,4
 PDB-CPX-130733,8adz,1,antibody,4
 PDB-CPX-130734,8ae0,1,antibody,4
@@ -9562,8 +9568,13 @@ PDB-CPX-132200,3ghg,2,peptide,4
 PDB-CPX-132207,1lwu,1,peptide,2
 PDB-CPX-132207,1lwu,2,peptide,2
 PDB-CPX-132209,2fib,1,peptide,1
+PDB-CPX-132209,9khc,1,peptide,1
+PDB-CPX-132209,9khc,2,peptide,1
 PDB-CPX-132222,6oya,1,antibody,1
 PDB-CPX-132223,6qno,1,antibody,2
+PDB-CPX-132223,8p12,1,antibody,2
+PDB-CPX-132223,8p13,1,antibody,4
+PDB-CPX-132223,8p15,1,antibody,4
 PDB-CPX-132226,7o7f,1,antibody,2
 PDB-CPX-132229,6b20,1,antibody,1
 PDB-CPX-132229,6b20,2,antibody,1
@@ -9592,6 +9603,9 @@ PDB-CPX-132278,4yzf,1,antibody,4
 PDB-CPX-132278,4yzf,2,antibody,4
 PDB-CPX-132285,9jo9,1,antibody,10
 PDB-CPX-132286,9jo7,1,antibody,5
+PDB-CPX-132286,9k94,1,antibody,5
+PDB-CPX-132286,9kmp,1,antibody,5
+PDB-CPX-132286,9kms,1,antibody,5
 PDB-CPX-132291,6z6v,1,antibody,1
 PDB-CPX-132291,6z6v,2,antibody,1
 PDB-CPX-132295,8de6,1,antibody,4
@@ -9763,6 +9777,9 @@ PDB-CPX-132544,6k68,4,antibody,2
 PDB-CPX-132544,6k6a,1,antibody,1
 PDB-CPX-132544,6k6a,2,antibody,1
 PDB-CPX-132544,6k6b,1,antibody,1
+PDB-CPX-132544,9m6j,1,antibody,1
+PDB-CPX-132544,9m6o,1,antibody,1
+PDB-CPX-132544,9m6o,2,antibody,1
 PDB-CPX-132559,5u3d,1,antibody,2
 PDB-CPX-132559,5u5f,1,antibody,2
 PDB-CPX-132559,5u5f,1,peptide,1
@@ -9771,6 +9788,7 @@ PDB-CPX-132559,5u5m,1,peptide,1
 PDB-CPX-132559,5u6a,1,antibody,2
 PDB-CPX-132559,5u6a,1,peptide,1
 PDB-CPX-132560,6k64,1,antibody,2
+PDB-CPX-132560,9m5d,1,antibody,2
 PDB-CPX-132566,1tf3,1,short DNA,2
 PDB-CPX-132571,1j1v,1,short DNA,2
 PDB-CPX-132575,5m1s,1,short DNA,2
@@ -10167,6 +10185,7 @@ PDB-CPX-133064,8wz3,1,antibody,6
 PDB-CPX-133065,5j3d,1,antibody,6
 PDB-CPX-133065,7mmn,1,antibody,6
 PDB-CPX-133065,9mkn,1,antibody,12
+PDB-CPX-133065,9u74,1,antibody,2
 PDB-CPX-133070,8snx,1,short RNA,1
 PDB-CPX-133070,8sny,1,short RNA,1
 PDB-CPX-133070,9ecv,1,peptide,1
@@ -11028,6 +11047,8 @@ PDB-CPX-133988,8vqd,1,antibody,2
 PDB-CPX-133988,9iut,1,antibody,2
 PDB-CPX-133988,9iut,2,antibody,2
 PDB-CPX-133988,9l1s,1,antibody,2
+PDB-CPX-133988,9mte,1,antibody,2
+PDB-CPX-133988,9mtx,1,antibody,1
 PDB-CPX-133998,1s78,1,antibody,1
 PDB-CPX-133998,1s78,2,antibody,1
 PDB-CPX-134004,3n85,1,antibody,6
@@ -11667,7 +11688,7 @@ PDB-CPX-134905,7uhz,1,antibody,6
 PDB-CPX-134905,7ui0,1,antibody,6
 PDB-CPX-134905,8kfa,1,antibody,6
 PDB-CPX-134906,8ugq,1,short DNA,11
-PDB-CPX-134907,8uh4,1,peptide,60
+PDB-CPX-134907,8uh4,1,short DNA,60
 PDB-CPX-134917,7ssc,1,antibody,2
 PDB-CPX-134938,3zkc,1,short DNA,2
 PDB-CPX-134941,1lq1,1,short DNA,2
@@ -11701,8 +11722,6 @@ PDB-CPX-134960,1jgg,1,short DNA,2
 PDB-CPX-134969,1mw8,1,short DNA,1
 PDB-CPX-134969,3px7,1,short DNA,2
 PDB-CPX-134991,5ctv,1,peptide,2
-PDB-CPX-134994,8jxr,1,antibody,3
-PDB-CPX-134994,8jxs,1,antibody,3
 PDB-CPX-134996,7rxd,1,antibody,3
 PDB-CPX-134997,7rxc,1,antibody,3
 PDB-CPX-135009,8acf,1,antibody,3
@@ -12409,10 +12428,15 @@ PDB-CPX-135871,7a6f,1,antibody,2
 PDB-CPX-135871,7o9w,1,antibody,2
 PDB-CPX-135871,8y6h,1,antibody,2
 PDB-CPX-135871,8y6i,1,antibody,2
+PDB-CPX-135883,9me4,1,antibody,4
+PDB-CPX-135883,9me5,1,antibody,4
+PDB-CPX-135883,9ptm,1,antibody,2
 PDB-CPX-135884,9ccs,1,antibody,2
 PDB-CPX-135884,9cct,1,antibody,2
 PDB-CPX-135884,9ccu,1,antibody,2
 PDB-CPX-135884,9ccw,1,antibody,2
+PDB-CPX-135884,9me6,1,antibody,6
+PDB-CPX-135884,9me7,1,antibody,4
 PDB-CPX-135894,6jmr,1,antibody,4
 PDB-CPX-135898,6jmq,1,antibody,2
 PDB-CPX-135898,8kdd,1,antibody,2
@@ -12420,10 +12444,10 @@ PDB-CPX-135898,8kdg,1,antibody,2
 PDB-CPX-135898,8kdi,1,antibody,2
 PDB-CPX-135905,1fje,1,short RNA,1
 PDB-CPX-135905,1rkj,1,short RNA,1
+PDB-CPX-135915,6huj,1,antibody,1
 PDB-CPX-135915,6huk,1,antibody,1
+PDB-CPX-135915,6huo,1,antibody,1
 PDB-CPX-135916,6hug,1,antibody,1
-PDB-CPX-135916,6huj,1,antibody,1
-PDB-CPX-135916,6huo,1,antibody,1
 PDB-CPX-135916,6hup,1,antibody,1
 PDB-CPX-135919,6ggg,1,peptide,1
 PDB-CPX-135921,4tnt,1,short DNA,2
@@ -12594,9 +12618,16 @@ PDB-CPX-136314,7dc8,1,antibody,2
 PDB-CPX-136314,7dc8,2,antibody,2
 PDB-CPX-136315,8j6f,1,antibody,2
 PDB-CPX-136316,8iow,1,antibody,2
+PDB-CPX-136326,9vj5,1,antibody,2
+PDB-CPX-136326,9vje,1,antibody,2
+PDB-CPX-136326,9vmy,1,antibody,2
+PDB-CPX-136326,9vnf,1,antibody,2
 PDB-CPX-136327,8jt6,1,antibody,2
 PDB-CPX-136327,8w8b,1,antibody,2
 PDB-CPX-136332,8jsp,1,antibody,2
+PDB-CPX-136332,9kvg,1,antibody,2
+PDB-CPX-136332,9kvh,1,antibody,2
+PDB-CPX-136332,9kvi,1,antibody,2
 PDB-CPX-136335,6k42,1,antibody,2
 PDB-CPX-136337,7ej0,1,antibody,2
 PDB-CPX-136337,7ej8,1,antibody,2
@@ -12805,6 +12836,7 @@ PDB-CPX-136695,3uc0,1,antibody,2
 PDB-CPX-136695,3uc0,2,antibody,2
 PDB-CPX-136696,3uaj,1,antibody,4
 PDB-CPX-136696,7a3q,1,antibody,4
+PDB-CPX-136701,9x1h,1,antibody,4
 PDB-CPX-136703,3odc,1,short DNA,2
 PDB-CPX-136703,3odc,2,short DNA,2
 PDB-CPX-136703,3ode,1,short DNA,2
@@ -13365,6 +13397,7 @@ PDB-CPX-137963,7sbf,1,antibody,2
 PDB-CPX-137967,6usf,1,antibody,4
 PDB-CPX-137968,8x2k,1,antibody,2
 PDB-CPX-137973,7x5h,1,antibody,2
+PDB-CPX-137973,9w6w,1,antibody,2
 PDB-CPX-137974,8wjx,1,antibody,1
 PDB-CPX-137977,8ihj,1,antibody,2
 PDB-CPX-137978,8hnl,1,antibody,2
@@ -13409,7 +13442,6 @@ PDB-CPX-138017,7s8o,1,antibody,2
 PDB-CPX-138018,8hj5,1,antibody,3
 PDB-CPX-138019,8w8q,1,antibody,1
 PDB-CPX-138021,8jln,1,antibody,2
-PDB-CPX-138021,8jlq,1,antibody,2
 PDB-CPX-138021,8jlr,1,antibody,2
 PDB-CPX-138022,9jkq,1,antibody,1
 PDB-CPX-138023,8jso,1,antibody,2
@@ -15743,6 +15775,8 @@ PDB-CPX-140148,8wfm,1,antibody,2
 PDB-CPX-140148,8wfm,2,antibody,2
 PDB-CPX-140148,8wfm,3,antibody,2
 PDB-CPX-140148,8wfm,4,antibody,2
+PDB-CPX-140148,8wpw,1,antibody,6
+PDB-CPX-140148,8wpy,1,antibody,6
 PDB-CPX-140148,8x0x,1,antibody,2
 PDB-CPX-140148,8x0x,2,antibody,2
 PDB-CPX-140148,8x0y,1,antibody,2
@@ -15833,6 +15867,9 @@ PDB-CPX-140148,9ml8,3,antibody,2
 PDB-CPX-140148,9ml8,4,antibody,2
 PDB-CPX-140148,9ml9,1,antibody,2
 PDB-CPX-140148,9mpw,1,antibody,2
+PDB-CPX-140148,9mr1,1,antibody,2
+PDB-CPX-140148,9mr2,1,antibody,2
+PDB-CPX-140148,9pw4,1,antibody,4
 PDB-CPX-140149,7e8f,1,antibody,6
 PDB-CPX-140149,7ey4,1,antibody,2
 PDB-CPX-140149,7eya,1,antibody,2
@@ -15840,6 +15877,7 @@ PDB-CPX-140149,7xrp,1,antibody,1
 PDB-CPX-140149,8hc6,1,antibody,2
 PDB-CPX-140149,8hc7,1,antibody,2
 PDB-CPX-140149,8via,1,antibody,2
+PDB-CPX-140149,9xgo,1,antibody,2
 PDB-CPX-140150,7wbh,1,antibody,6
 PDB-CPX-140156,7rtr,1,antibody,2
 PDB-CPX-140159,8ye4,1,antibody,2
@@ -16725,6 +16763,12 @@ PDB-CPX-140846,3mn6,2,peptide,1
 PDB-CPX-140846,3mn6,3,peptide,1
 PDB-CPX-140846,3mn9,1,peptide,1
 PDB-CPX-140855,8f0j,1,antibody,1
+PDB-CPX-140855,9blb,1,antibody,1
+PDB-CPX-140855,9blc,1,antibody,1
+PDB-CPX-140855,9bub,1,antibody,1
+PDB-CPX-140855,9buc,1,antibody,1
+PDB-CPX-140855,9bud,1,antibody,1
+PDB-CPX-140855,9bue,1,antibody,1
 PDB-CPX-140913,1hht,1,short DNA,1
 PDB-CPX-140913,1hht,2,short DNA,1
 PDB-CPX-140913,1hht,3,short DNA,1
@@ -17791,6 +17835,7 @@ PDB-CPX-142775,7uby,2,antibody,1
 PDB-CPX-142775,8yvj,1,antibody,1
 PDB-CPX-142775,8yvo,1,antibody,1
 PDB-CPX-142775,8yvo,2,antibody,1
+PDB-CPX-142775,9mx1,1,antibody,2
 PDB-CPX-142781,7xp4,1,antibody,1
 PDB-CPX-142781,7xp5,1,antibody,1
 PDB-CPX-142781,7xp6,1,antibody,1
@@ -18116,6 +18161,7 @@ PDB-CPX-143336,6oq8,2,antibody,1
 PDB-CPX-143336,7so5,1,antibody,2
 PDB-CPX-143336,7so7,1,antibody,2
 PDB-CPX-143336,7so7,2,antibody,2
+PDB-CPX-143336,9nfu,1,antibody,2
 PDB-CPX-143378,8y9j,1,short RNA,1
 PDB-CPX-143379,8usn,1,short RNA,2
 PDB-CPX-143379,8ust,1,short RNA,2
@@ -18137,6 +18183,7 @@ PDB-CPX-143433,6lpb,1,antibody,1
 PDB-CPX-143434,6m1i,1,antibody,1
 PDB-CPX-143434,6p9y,1,antibody,1
 PDB-CPX-143434,8e3x,1,antibody,1
+PDB-CPX-143434,9p94,1,antibody,1
 PDB-CPX-143438,3ab0,1,antibody,1
 PDB-CPX-143438,3ab0,2,antibody,1
 PDB-CPX-143439,3ab0,3,antibody,2
@@ -18681,6 +18728,8 @@ PDB-CPX-144283,7euo,1,peptide,1
 PDB-CPX-144283,7vfx,1,antibody,2
 PDB-CPX-144283,7vfx,1,peptide,1
 PDB-CPX-144283,7wvu,1,peptide,1
+PDB-CPX-144283,9kft,1,antibody,2
+PDB-CPX-144283,9kft,1,peptide,1
 PDB-CPX-144284,2vs7,1,short DNA,2
 PDB-CPX-144284,2vs7,2,short DNA,2
 PDB-CPX-144284,2vs7,3,short DNA,2
@@ -19159,6 +19208,11 @@ PDB-CPX-145193,8k4q,1,antibody,2
 PDB-CPX-145212,6igl,1,peptide,1
 PDB-CPX-145213,8hbd,1,antibody,2
 PDB-CPX-145213,8hbd,1,peptide,1
+PDB-CPX-145253,9qt3,1,antibody,3
+PDB-CPX-145253,9qt3,2,antibody,3
+PDB-CPX-145253,9qt3,3,antibody,3
+PDB-CPX-145253,9qt3,4,antibody,3
+PDB-CPX-145253,9shd,1,antibody,3
 PDB-CPX-145257,1xbr,1,short DNA,2
 PDB-CPX-145260,5aor,1,short RNA,1
 PDB-CPX-145260,5aor,2,short RNA,1
@@ -19532,6 +19586,11 @@ PDB-CPX-146048,7suv,1,short DNA,3
 PDB-CPX-146048,7svb,1,short DNA,3
 PDB-CPX-146048,7tr7,1,short DNA,1
 PDB-CPX-146048,7tr7,2,short DNA,1
+PDB-CPX-146048,9dp1,1,short DNA,2
+PDB-CPX-146048,9dp2,1,short DNA,3
+PDB-CPX-146048,9dp3,1,short DNA,3
+PDB-CPX-146048,9dp4,1,short DNA,3
+PDB-CPX-146048,9dp4,2,short DNA,3
 PDB-CPX-146049,6p93,1,short DNA,3
 PDB-CPX-146049,6p94,1,short DNA,3
 PDB-CPX-146058,4hri,1,short DNA,2
@@ -20282,6 +20341,7 @@ PDB-CPX-147729,6uge,1,peptide,1
 PDB-CPX-147729,6ugf,1,peptide,1
 PDB-CPX-147730,9m5u,1,short DNA,2
 PDB-CPX-147730,9ped,1,short DNA,2
+PDB-CPX-147730,9v4p,1,short DNA,2
 PDB-CPX-147761,6kpf,1,antibody,2
 PDB-CPX-147761,6pt0,1,antibody,2
 PDB-CPX-147761,8guq,1,antibody,2
@@ -20559,6 +20619,10 @@ PDB-CPX-148337,6dgp,1,peptide,1
 PDB-CPX-148337,6dgp,2,peptide,1
 PDB-CPX-148337,6fzj,1,peptide,1
 PDB-CPX-148337,6fzj,2,peptide,1
+PDB-CPX-148337,9v8e,1,peptide,1
+PDB-CPX-148337,9v8f,1,peptide,1
+PDB-CPX-148337,9v8g,1,peptide,1
+PDB-CPX-148337,9v8h,1,peptide,1
 PDB-CPX-148390,6y93,1,short DNA,2
 PDB-CPX-148390,7ol9,1,short DNA,2
 PDB-CPX-148413,4r4e,1,short DNA,2
@@ -20577,6 +20641,7 @@ PDB-CPX-148472,8jly,1,antibody,1
 PDB-CPX-148472,8og0,1,antibody,2
 PDB-CPX-148477,8bqw,1,peptide,10
 PDB-CPX-148477,9obp,1,peptide,5
+PDB-CPX-148478,9kcn,1,peptide,12
 PDB-CPX-148485,8a9l,1,peptide,6
 PDB-CPX-148485,9je4,1,peptide,3
 PDB-CPX-148486,8bqv,1,peptide,5
@@ -20767,10 +20832,14 @@ PDB-CPX-149266,8feg,1,peptide,1
 PDB-CPX-149266,8vve,1,antibody,2
 PDB-CPX-149266,8vvf,1,antibody,2
 PDB-CPX-149266,8vvg,1,antibody,2
+PDB-CPX-149266,9v6o,1,antibody,2
+PDB-CPX-149266,9w49,1,antibody,2
 PDB-CPX-149267,8dzr,1,antibody,2
 PDB-CPX-149268,6vi4,1,antibody,2
 PDB-CPX-149268,9mqk,1,antibody,3
 PDB-CPX-149269,8f7x,1,antibody,2
+PDB-CPX-149275,9puo,1,antibody,2
+PDB-CPX-149275,9puo,2,antibody,2
 PDB-CPX-149285,4uno,1,short DNA,4
 PDB-CPX-149288,7e6u,1,antibody,2
 PDB-CPX-149288,7m3g,1,peptide,2
@@ -21350,20 +21419,19 @@ PDB-CPX-149876,5nx2,1,peptide,1
 PDB-CPX-149877,8jip,1,antibody,1
 PDB-CPX-149878,8jir,1,antibody,1
 PDB-CPX-149879,8jis,1,antibody,1
-PDB-CPX-149880,9j1p,1,antibody,1
 PDB-CPX-149881,7dur,1,antibody,1
 PDB-CPX-149881,7evm,1,antibody,1
 PDB-CPX-149881,8wg7,1,antibody,1
 PDB-CPX-149882,7vbh,1,antibody,1
 PDB-CPX-149883,7vbi,1,antibody,1
-PDB-CPX-149884,7rg9,1,antibody,3
-PDB-CPX-149885,8ywf,1,antibody,1
 PDB-CPX-149886,9ivm,1,antibody,1
 PDB-CPX-149887,6orv,1,antibody,1
 PDB-CPX-149887,6x19,1,antibody,1
 PDB-CPX-149887,6x1a,1,antibody,1
+PDB-CPX-149887,6xox,1,antibody,3
 PDB-CPX-149887,7c2e,1,antibody,1
 PDB-CPX-149887,7e14,1,antibody,1
+PDB-CPX-149887,7rg9,1,antibody,3
 PDB-CPX-149887,7s3i,1,antibody,1
 PDB-CPX-149887,9ebn,1,antibody,1
 PDB-CPX-149887,9ebq,1,antibody,1
@@ -21612,7 +21680,6 @@ PDB-CPX-150680,4euw,1,short DNA,2
 PDB-CPX-150702,4hj0,1,antibody,2
 PDB-CPX-150702,4hj0,2,antibody,2
 PDB-CPX-150703,7vab,1,antibody,1
-PDB-CPX-150704,7rbt,1,antibody,3
 PDB-CPX-150705,8yw4,1,antibody,1
 PDB-CPX-150723,1xkh,1,peptide,1
 PDB-CPX-150723,1xkh,2,peptide,1
@@ -21751,7 +21818,6 @@ PDB-CPX-151089,8g59,1,antibody,2
 PDB-CPX-151090,8zje,1,antibody,2
 PDB-CPX-151090,8zje,1,peptide,1
 PDB-CPX-151091,8yyw,1,antibody,2
-PDB-CPX-151091,8yyx,1,antibody,2
 PDB-CPX-151093,7f6g,1,peptide,1
 PDB-CPX-151094,8xgs,1,antibody,2
 PDB-CPX-151095,8iys,1,antibody,2
@@ -21900,6 +21966,7 @@ PDB-CPX-151484,9cle,1,peptide,2
 PDB-CPX-151484,9clf,1,peptide,2
 PDB-CPX-151484,9clg,1,peptide,2
 PDB-CPX-151484,9pyr,1,peptide,2
+PDB-CPX-151484,9yy4,1,peptide,1
 PDB-CPX-151492,8g8q,1,peptide,1
 PDB-CPX-151565,2kfy,1,short RNA,1
 PDB-CPX-151565,2kg0,1,short RNA,1
@@ -22269,6 +22336,7 @@ PDB-CPX-152576,7zk1,1,antibody,2
 PDB-CPX-152576,7zkw,1,antibody,1
 PDB-CPX-152576,7zkw,2,antibody,1
 PDB-CPX-152576,7zkz,1,antibody,2
+PDB-CPX-152577,9e0v,1,peptide,1
 PDB-CPX-152578,7z1x,1,antibody,4
 PDB-CPX-152589,8qz1,1,antibody,2
 PDB-CPX-152589,8qz2,1,antibody,1
@@ -22410,12 +22478,13 @@ PDB-CPX-152819,8hmp,1,antibody,1
 PDB-CPX-152820,6crk,1,antibody,2
 PDB-CPX-152821,7rkm,1,antibody,2
 PDB-CPX-152821,7rkn,1,antibody,2
-PDB-CPX-152822,9l42,1,antibody,2
 PDB-CPX-152823,7y89,1,antibody,2
 PDB-CPX-152825,8jd5,1,antibody,2
 PDB-CPX-152826,7e9g,1,antibody,4
 PDB-CPX-152827,9j0b,1,antibody,2
 PDB-CPX-152827,9j0i,1,antibody,2
+PDB-CPX-152827,9ydu,1,antibody,2
+PDB-CPX-152827,9ydv,1,antibody,2
 PDB-CPX-152828,7vkt,1,antibody,2
 PDB-CPX-152829,8ia8,1,antibody,2
 PDB-CPX-152829,8ia8,1,peptide,1
@@ -22491,6 +22560,7 @@ PDB-CPX-152851,8jxx,1,antibody,2
 PDB-CPX-152851,8yn9,1,antibody,2
 PDB-CPX-152851,8yna,1,antibody,2
 PDB-CPX-152851,9jed,1,antibody,2
+PDB-CPX-152851,9l42,1,antibody,2
 PDB-CPX-152852,8g05,1,antibody,2
 PDB-CPX-152852,8j18,1,antibody,2
 PDB-CPX-152852,8j19,1,antibody,2
@@ -22593,6 +22663,8 @@ PDB-CPX-153028,1jbd,1,peptide,1
 PDB-CPX-153028,1rgj,1,peptide,1
 PDB-CPX-153028,2btx,1,peptide,1
 PDB-CPX-153028,8da1,1,antibody,2
+PDB-CPX-153028,9hub,1,antibody,2
+PDB-CPX-153028,9hub,2,antibody,2
 PDB-CPX-153029,9fys,1,antibody,4
 PDB-CPX-153030,8vy8,1,peptide,4
 PDB-CPX-153031,1hc9,1,peptide,1
@@ -22768,10 +22840,17 @@ PDB-CPX-153335,9ek6,1,antibody,2
 PDB-CPX-153335,9ek6,2,antibody,2
 PDB-CPX-153335,9ek7,1,antibody,2
 PDB-CPX-153335,9ek7,2,antibody,2
+PDB-CPX-153335,9o05,1,antibody,2
+PDB-CPX-153335,9o05,2,antibody,2
+PDB-CPX-153335,9o07,1,antibody,2
+PDB-CPX-153335,9o07,2,antibody,2
+PDB-CPX-153335,9o08,1,antibody,2
+PDB-CPX-153335,9o08,2,antibody,2
 PDB-CPX-153336,7edo,1,peptide,1
 PDB-CPX-153336,7edo,2,peptide,1
 PDB-CPX-153340,9bty,1,antibody,4
 PDB-CPX-153340,9bu0,1,antibody,4
+PDB-CPX-153340,9o06,1,antibody,4
 PDB-CPX-153348,4kxz,1,antibody,4
 PDB-CPX-153348,4kxz,2,antibody,4
 PDB-CPX-153348,6xm2,1,antibody,4
@@ -24474,6 +24553,7 @@ PDB-CPX-167833,9ckn,1,peptide,1
 PDB-CPX-167833,9ckn,2,peptide,1
 PDB-CPX-167841,8zcs,1,peptide,1
 PDB-CPX-167842,5dnj,1,peptide,1
+PDB-CPX-167842,9im7,1,peptide,1
 PDB-CPX-167860,8be2,1,antibody,1
 PDB-CPX-167873,2m8d,1,short RNA,1
 PDB-CPX-167893,3g73,1,short DNA,2
@@ -24721,6 +24801,7 @@ PDB-CPX-168967,8cz8,1,antibody,4
 PDB-CPX-168967,8cz8,2,antibody,4
 PDB-CPX-168967,8fsl,1,antibody,2
 PDB-CPX-168967,8fsl,2,antibody,2
+PDB-CPX-168967,9p4c,1,antibody,2
 PDB-CPX-168981,2wfj,1,peptide,1
 PDB-CPX-168990,7ett,1,peptide,1
 PDB-CPX-168990,7etu,1,peptide,1
@@ -24936,6 +25017,7 @@ PDB-CPX-169456,7vad,1,antibody,2
 PDB-CPX-169456,7vag,1,antibody,2
 PDB-CPX-169456,7wsi,1,antibody,2
 PDB-CPX-169456,7zyi,1,antibody,3
+PDB-CPX-169456,9qzq,1,antibody,3
 PDB-CPX-169457,8hrx,1,antibody,2
 PDB-CPX-169457,8hry,1,antibody,2
 PDB-CPX-169458,8rqf,1,antibody,3
@@ -24998,6 +25080,8 @@ PDB-CPX-169530,8gy5,2,antibody,2
 PDB-CPX-169530,8u31,1,antibody,2
 PDB-CPX-169530,8u32,1,antibody,2
 PDB-CPX-169530,8u32,2,antibody,2
+PDB-CPX-169530,9eht,1,antibody,2
+PDB-CPX-169530,9eht,2,antibody,2
 PDB-CPX-169530,9hk1,1,antibody,2
 PDB-CPX-169530,9hk1,2,antibody,2
 PDB-CPX-169530,9q8l,1,antibody,2
@@ -25131,6 +25215,7 @@ PDB-CPX-169846,5hhv,1,peptide,2
 PDB-CPX-169846,5hhx,1,antibody,4
 PDB-CPX-169846,5hhx,1,peptide,2
 PDB-CPX-169854,9gbz,1,short RNA,1
+PDB-CPX-169859,8zwf,1,antibody,2
 PDB-CPX-169865,8uky,1,antibody,2
 PDB-CPX-169865,8uky,2,antibody,2
 PDB-CPX-169870,7lk4,1,antibody,4
@@ -25589,6 +25674,7 @@ PDB-CPX-171167,9bnk,1,antibody,2
 PDB-CPX-171167,9bnm,1,antibody,2
 PDB-CPX-171167,9bnp,1,antibody,2
 PDB-CPX-171167,9btl,1,antibody,2
+PDB-CPX-171167,9cf5,1,antibody,6
 PDB-CPX-171167,9o2r,1,antibody,2
 PDB-CPX-171167,9o2s,1,antibody,4
 PDB-CPX-171167,9o2t,1,antibody,6
@@ -26338,6 +26424,7 @@ PDB-CPX-174193,2c1o,1,antibody,1
 PDB-CPX-174193,2c1o,2,antibody,1
 PDB-CPX-174193,2c1p,1,antibody,1
 PDB-CPX-174193,2c1p,2,antibody,1
+PDB-CPX-174193,9h8h,1,antibody,1
 PDB-CPX-174198,2kdz,1,short DNA,2
 PDB-CPX-174199,3osf,1,short DNA,2
 PDB-CPX-174199,3osf,2,short DNA,2
@@ -27054,6 +27141,9 @@ PDB-CPX-178100,2g8z,1,peptide,1
 PDB-CPX-178128,2v6e,1,short DNA,4
 PDB-CPX-178134,4zsf,1,short DNA,2
 PDB-CPX-178155,6wmw,1,antibody,4
+PDB-CPX-178155,9hyt,1,peptide,1
+PDB-CPX-178155,9hyt,2,peptide,1
+PDB-CPX-178155,9hyt,3,peptide,1
 PDB-CPX-178157,8xum,1,antibody,1
 PDB-CPX-178158,8xft,1,antibody,1
 PDB-CPX-178160,8xfp,1,antibody,1
@@ -27281,7 +27371,6 @@ PDB-CPX-179121,9chn,1,short DNA,2
 PDB-CPX-179122,9chl,1,short DNA,2
 PDB-CPX-179122,9chl,2,short DNA,2
 PDB-CPX-179133,9g2a,1,antibody,2
-PDB-CPX-179141,9ill,1,short DNA,2
 PDB-CPX-179162,3nf3,1,peptide,1
 PDB-CPX-179252,4dwp,1,short DNA,4
 PDB-CPX-179252,4e0g,1,short DNA,4
@@ -27384,6 +27473,8 @@ PDB-CPX-179394,8vc7,1,antibody,2
 PDB-CPX-179394,8vc7,2,antibody,2
 PDB-CPX-179394,9dpe,1,antibody,3
 PDB-CPX-179395,8dfw,1,antibody,2
+PDB-CPX-179395,8zk3,1,antibody,2
+PDB-CPX-179395,8zk4,1,antibody,2
 PDB-CPX-179395,9jq6,1,antibody,4
 PDB-CPX-179397,3omc,1,peptide,1
 PDB-CPX-179397,3omc,2,peptide,1
@@ -27696,6 +27787,7 @@ PDB-CPX-181734,5l20,1,peptide,1
 PDB-CPX-181783,8ez3,1,antibody,2
 PDB-CPX-181783,8ez7,1,antibody,2
 PDB-CPX-181783,8ez8,1,antibody,2
+PDB-CPX-181784,9osr,1,antibody,8
 PDB-CPX-181795,8e2u,1,antibody,2
 PDB-CPX-181795,8eay,1,antibody,2
 PDB-CPX-181795,8tw3,1,antibody,2
@@ -28000,6 +28092,10 @@ PDB-CPX-182968,8qt3,1,peptide,1
 PDB-CPX-182968,8qt4,1,peptide,1
 PDB-CPX-182968,8qt8,1,peptide,1
 PDB-CPX-182968,8qtu,1,peptide,1
+PDB-CPX-182968,9s23,1,peptide,1
+PDB-CPX-182968,9s24,1,peptide,1
+PDB-CPX-182968,9s25,1,peptide,1
+PDB-CPX-182968,9s26,1,peptide,1
 PDB-CPX-182968,9v7w,1,peptide,1
 PDB-CPX-182974,9pfp,1,short DNA,2
 PDB-CPX-182974,9pfp,2,short DNA,2
@@ -28961,6 +29057,7 @@ PDB-CPX-186759,7po6,2,short RNA,1
 PDB-CPX-186759,7po6,3,short RNA,1
 PDB-CPX-186771,2jam,1,peptide,1
 PDB-CPX-186771,2jam,2,peptide,1
+PDB-CPX-186772,9kkj,1,antibody,2
 PDB-CPX-186789,6ppg,1,antibody,4
 PDB-CPX-186789,8ruu,1,antibody,4
 PDB-CPX-186791,8u85,1,peptide,2
@@ -29285,6 +29382,8 @@ PDB-CPX-187372,4awb,1,peptide,2
 PDB-CPX-187374,6v2s,1,peptide,1
 PDB-CPX-187374,6v2s,2,peptide,1
 PDB-CPX-187374,7m5u,1,peptide,1
+PDB-CPX-187374,9h77,1,antibody,1
+PDB-CPX-187374,9h77,2,antibody,1
 PDB-CPX-187378,3mva,1,short DNA,2
 PDB-CPX-187378,3mvb,1,short DNA,2
 PDB-CPX-187378,3n6s,1,short DNA,4
@@ -29786,6 +29885,8 @@ PDB-CPX-189060,7uxd,1,short DNA,1
 PDB-CPX-189065,3i91,1,peptide,1
 PDB-CPX-189065,5eq0,1,peptide,1
 PDB-CPX-189068,9jzt,1,short DNA,2
+PDB-CPX-189068,9kh2,1,short DNA,2
+PDB-CPX-189068,9kh2,2,short DNA,2
 PDB-CPX-189085,6oon,1,short RNA,1
 PDB-CPX-189091,7r58,1,antibody,2
 PDB-CPX-189092,7nmu,1,antibody,2
@@ -29988,6 +30089,9 @@ PDB-CPX-189921,6vy5,1,antibody,2
 PDB-CPX-189921,8ja5,1,antibody,2
 PDB-CPX-189921,8ja5,2,antibody,2
 PDB-CPX-189921,8xpy,1,antibody,1
+PDB-CPX-189921,9lu3,1,antibody,2
+PDB-CPX-189921,9lu3,2,antibody,2
+PDB-CPX-189921,9lue,1,antibody,6
 PDB-CPX-189922,8k0d,1,antibody,4
 PDB-CPX-189922,8k3c,1,antibody,2
 PDB-CPX-189923,8k0c,1,antibody,4
@@ -30493,6 +30597,7 @@ PDB-CPX-191047,8v15,1,peptide,1
 PDB-CPX-191047,8v15,2,peptide,1
 PDB-CPX-191047,8v2n,1,peptide,1
 PDB-CPX-191047,8v5u,1,peptide,1
+PDB-CPX-191047,9s27,1,peptide,1
 PDB-CPX-191078,1nop,1,peptide,1
 PDB-CPX-191078,1nop,1,short DNA,1
 PDB-CPX-191078,1nop,2,short DNA,1
@@ -31116,6 +31221,7 @@ PDB-CPX-192401,8thq,1,short RNA,2
 PDB-CPX-192411,4kre,1,short RNA,1
 PDB-CPX-192411,4krf,1,short RNA,1
 PDB-CPX-192411,4kxt,1,short RNA,1
+PDB-CPX-192411,9q3f,1,short RNA,1
 PDB-CPX-192411,9q3g,1,short RNA,1
 PDB-CPX-192412,1si2,1,short DNA/RNA,2
 PDB-CPX-192412,1si3,1,short RNA,2
@@ -32180,36 +32286,263 @@ PDB-CPX-202381,9v24,1,mRNA,1
 PDB-CPX-202381,9v24,1,peptide,1
 PDB-CPX-202382,9v25,1,tRNA,2
 PDB-CPX-202382,9v25,1,peptide,1
-PDB-CPX-202387,5lqx,1,peptide,1
-PDB-CPX-202388,5lqy,1,peptide,1
-PDB-CPX-202389,6ywe,1,tRNA,1
-PDB-CPX-202389,6ywe,1,mRNA,1
-PDB-CPX-202392,8s54,1,short RNA,1
-PDB-CPX-202393,8s51,1,short RNA,1
 PDB-CPX-202394,8rbx,1,peptide,1
 PDB-CPX-202394,8rbx,1,short RNA,1
-PDB-CPX-202406,8wau,1,short RNA,1
-PDB-CPX-202407,8waw,1,short RNA,1
 PDB-CPX-202408,9hl9,1,tRNA,2
 PDB-CPX-202408,9hl9,1,mRNA,1
 PDB-CPX-202421,9uev,1,antibody,2
+PDB-CPX-202426,8zde,1,short DNA,2
+PDB-CPX-202426,8zde,2,short DNA,2
+PDB-CPX-202426,8zde,3,short DNA,2
 PDB-CPX-202440,9v1l,1,tRNA,1
 PDB-CPX-202440,9v1l,1,peptide,1
-PDB-CPX-202442,9ubq,1,antibody,4
-PDB-CPX-202443,9rtv,1,peptide,1
 PDB-CPX-202444,9uk5,1,antibody,2
 PDB-CPX-202444,9vp0,1,antibody,2
 PDB-CPX-202461,9k7f,1,short RNA,1
 PDB-CPX-202474,9qsc,1,short DNA,1
-PDB-CPX-202504,9n7b,1,short RNA,1
-PDB-CPX-202506,9ew2,1,antibody,1
-PDB-CPX-202509,8i2g,1,antibody,1
-PDB-CPX-202518,7w2z,1,antibody,2
+PDB-CPX-202521,8jlq,1,antibody,2
 PDB-CPX-202528,9ucp,1,antibody,1
-PDB-CPX-202531,6xox,1,antibody,3
 PDB-CPX-202538,9nz4,1,antibody,4
-PDB-CPX-202541,4v7h,1,tRNA,1
-PDB-CPX-202750,9rtu,1,tRNA,2
-PDB-CPX-202750,9rtu,1,peptide,1
-PDB-CPX-202789,9eyd,1,antibody,1
 PDB-CPX-202794,9nz5,1,antibody,4
+PDB-CPX-202811,9ofb,1,short RNA,2
+PDB-CPX-202812,9mmw,1,short RNA,6
+PDB-CPX-202812,9ofc,1,short RNA,6
+PDB-CPX-202812,9ofd,1,short RNA,2
+PDB-CPX-202812,9ofe,1,short RNA,4
+PDB-CPX-202834,9jwn,1,short DNA,1
+PDB-CPX-202848,9hr5,1,short DNA,2
+PDB-CPX-202862,9l5o,1,peptide,1
+PDB-CPX-202865,9mq1,1,antibody,2
+PDB-CPX-202865,9mq2,1,antibody,2
+PDB-CPX-202865,9mq3,1,antibody,2
+PDB-CPX-202866,9bop,1,antibody,10
+PDB-CPX-202881,9k3b,1,short RNA,1
+PDB-CPX-202882,9k3u,1,short RNA,1
+PDB-CPX-202883,9k3v,1,short RNA,1
+PDB-CPX-202884,9lxn,1,short RNA,1
+PDB-CPX-202892,9wnr,1,tRNA,3
+PDB-CPX-202892,9wnr,1,mRNA,1
+PDB-CPX-202893,9wnq,1,tRNA,3
+PDB-CPX-202893,9wnq,1,mRNA,1
+PDB-CPX-202894,9rtu,1,tRNA,2
+PDB-CPX-202894,9rtu,1,peptide,1
+PDB-CPX-202898,8vsj,1,antibody,2
+PDB-CPX-202902,8zda,1,short DNA,1
+PDB-CPX-202904,9gda,1,short RNA,1
+PDB-CPX-202905,9gdb,1,short RNA,1
+PDB-CPX-202906,9gdc,1,short RNA,1
+PDB-CPX-202907,9gdd,1,short RNA,1
+PDB-CPX-202908,9gde,1,short RNA,1
+PDB-CPX-202909,9gdh,1,short RNA,1
+PDB-CPX-202910,9k2g,1,short RNA,1
+PDB-CPX-202911,9k36,1,short RNA,1
+PDB-CPX-202912,9k38,1,short RNA,1
+PDB-CPX-202913,9k39,1,short RNA,1
+PDB-CPX-202914,9kd9,1,peptide,1
+PDB-CPX-202914,9kd9,1,short RNA,1
+PDB-CPX-202915,9lxo,1,short RNA,1
+PDB-CPX-202934,9ukt,1,short RNA,1
+PDB-CPX-202940,9v4m,1,short DNA,1
+PDB-CPX-202976,9blw,1,antibody,1
+PDB-CPX-202976,9bp3,1,antibody,1
+PDB-CPX-202977,9bq3,1,antibody,1
+PDB-CPX-202994,8jxr,1,antibody,3
+PDB-CPX-202994,8jxs,1,antibody,3
+PDB-CPX-203031,4v7h,1,tRNA,1
+PDB-CPX-203092,9r10,1,antibody,2
+PDB-CPX-203092,9r1e,1,antibody,2
+PDB-CPX-203092,9r1f,1,antibody,2
+PDB-CPX-203092,9r1g,1,antibody,2
+PDB-CPX-203140,9nqz,1,antibody,6
+PDB-CPX-203142,8tw6,1,antibody,1
+PDB-CPX-203144,9c64,1,short DNA,1
+PDB-CPX-203144,9c64,2,short DNA,1
+PDB-CPX-203161,8s54,1,short RNA,1
+PDB-CPX-203162,9s3g,1,short RNA,1
+PDB-CPX-203167,9uwh,1,tRNA,1
+PDB-CPX-203167,9uwh,1,mRNA,1
+PDB-CPX-203172,9n5z,1,antibody,2
+PDB-CPX-203173,9n5y,1,antibody,6
+PDB-CPX-203183,9vdo,1,short DNA,6
+PDB-CPX-203183,9vdp,1,short DNA,6
+PDB-CPX-203202,9ubq,1,antibody,4
+PDB-CPX-203204,9rtv,1,tRNA,2
+PDB-CPX-203204,9rtv,1,peptide,1
+PDB-CPX-203205,9pjd,1,short RNA,1
+PDB-CPX-203216,9kd7,1,peptide,1
+PDB-CPX-203216,9kd7,1,short RNA,1
+PDB-CPX-203217,9kd8,1,peptide,1
+PDB-CPX-203217,9kd8,1,short RNA,1
+PDB-CPX-203218,9kdn,1,peptide,1
+PDB-CPX-203218,9kdn,1,short RNA,1
+PDB-CPX-203219,9kdo,1,peptide,2
+PDB-CPX-203219,9kdo,1,short RNA,1
+PDB-CPX-203220,9kdq,1,peptide,3
+PDB-CPX-203220,9kdq,1,short RNA,1
+PDB-CPX-203231,9svy,1,short DNA,1
+PDB-CPX-203241,9n7b,1,short RNA,1
+PDB-CPX-203265,9vj6,1,antibody,2
+PDB-CPX-203265,9vjf,1,antibody,2
+PDB-CPX-203266,9vjg,1,antibody,2
+PDB-CPX-203267,9pxv,1,antibody,2
+PDB-CPX-203376,9ld6,1,short DNA,1
+PDB-CPX-203376,9lda,1,short DNA,1
+PDB-CPX-203376,9ldc,1,short DNA,1
+PDB-CPX-203376,9ldd,1,short DNA,1
+PDB-CPX-203376,9ldf,1,short DNA,1
+PDB-CPX-203377,9ldg,1,short DNA,2
+PDB-CPX-203406,9wbd,1,antibody,1
+PDB-CPX-203406,9wbd,2,antibody,1
+PDB-CPX-203406,9wbd,3,antibody,1
+PDB-CPX-203406,9wbd,4,antibody,1
+PDB-CPX-203413,4v42,1,tRNA,3
+PDB-CPX-203413,4v42,1,mRNA,1
+PDB-CPX-203421,9vg1,1,antibody,120
+PDB-CPX-203422,9vft,1,antibody,120
+PDB-CPX-203422,9vfu,1,antibody,120
+PDB-CPX-203455,9ea3,1,short DNA,1
+PDB-CPX-203456,9ea2,1,short DNA,1
+PDB-CPX-203457,9ea6,1,short DNA,1
+PDB-CPX-203487,9ixa,1,antibody,2
+PDB-CPX-203488,9e5y,1,short DNA,1
+PDB-CPX-203509,9e8k,1,peptide,1
+PDB-CPX-203509,9e8n,1,peptide,1
+PDB-CPX-203510,9pdl,1,peptide,1
+PDB-CPX-203510,9pdn,1,peptide,1
+PDB-CPX-203510,9pf1,1,peptide,1
+PDB-CPX-203519,9n79,1,short RNA,1
+PDB-CPX-203520,9n7a,1,short RNA,1
+PDB-CPX-203532,9p92,1,antibody,1
+PDB-CPX-203532,9p93,1,antibody,1
+PDB-CPX-203536,9vca,1,antibody,2
+PDB-CPX-203547,9wxm,1,antibody,2
+PDB-CPX-203548,9hq5,1,antibody,1
+PDB-CPX-203548,9hur,1,antibody,1
+PDB-CPX-203553,9nnp,1,short DNA,1
+PDB-CPX-203556,9uym,1,antibody,3
+PDB-CPX-203557,9uyn,1,antibody,3
+PDB-CPX-203558,9uyh,1,antibody,3
+PDB-CPX-203558,9uyi,1,antibody,3
+PDB-CPX-203558,9uyj,1,antibody,3
+PDB-CPX-203558,9uyl,1,antibody,3
+PDB-CPX-203561,8ywf,1,antibody,1
+PDB-CPX-203563,8yyx,1,antibody,2
+PDB-CPX-203697,9om4,1,short DNA,1
+PDB-CPX-203697,9om4,1,short RNA,1
+PDB-CPX-203697,9om4,3,short DNA,1
+PDB-CPX-203697,9om4,3,short RNA,1
+PDB-CPX-203697,9om4,4,short DNA,1
+PDB-CPX-203697,9om4,4,short RNA,1
+PDB-CPX-203697,9om4,5,short DNA,1
+PDB-CPX-203697,9om4,5,short RNA,1
+PDB-CPX-203698,9om4,2,short DNA,4
+PDB-CPX-203698,9om4,2,short RNA,4
+PDB-CPX-203718,9i59,1,antibody,2
+PDB-CPX-203718,9i59,2,antibody,2
+PDB-CPX-203719,9nh7,1,antibody,2
+PDB-CPX-203727,9ia3,1,antibody,2
+PDB-CPX-203729,9jy0,1,antibody,2
+PDB-CPX-203730,9jy1,1,antibody,4
+PDB-CPX-203732,9rsj,1,antibody,4
+PDB-CPX-203744,9n07,1,short RNA,1
+PDB-CPX-203757,9t99,1,short RNA,3
+PDB-CPX-203759,7r73,1,antibody,1
+PDB-CPX-203764,9ko4,1,antibody,2
+PDB-CPX-203766,9kv8,1,antibody,2
+PDB-CPX-203767,9kzk,1,antibody,2
+PDB-CPX-203768,9kz8,1,antibody,2
+PDB-CPX-203768,9kz8,1,peptide,1
+PDB-CPX-203768,9l0h,1,antibody,2
+PDB-CPX-203768,9umj,1,antibody,2
+PDB-CPX-203768,9umj,1,peptide,1
+PDB-CPX-203769,9kv6,1,antibody,2
+PDB-CPX-203770,9h4n,1,tRNA,1
+PDB-CPX-203770,9h4n,1,mRNA,1
+PDB-CPX-203770,9h4n,1,peptide,1
+PDB-CPX-203778,9svx,1,short DNA,1
+PDB-CPX-203781,9i24,1,peptide,1
+PDB-CPX-203783,9kx6,1,antibody,2
+PDB-CPX-203787,8zff,1,tRNA,1
+PDB-CPX-203788,8zfg,1,tRNA,1
+PDB-CPX-203792,9kwg,1,antibody,2
+PDB-CPX-203792,9kwx,1,antibody,2
+PDB-CPX-203793,9kug,1,antibody,2
+PDB-CPX-203793,9kug,1,peptide,1
+PDB-CPX-203793,9umr,1,antibody,2
+PDB-CPX-203793,9umr,1,peptide,1
+PDB-CPX-203793,9umx,1,antibody,2
+PDB-CPX-203793,9umx,1,peptide,1
+PDB-CPX-203794,9kxs,1,antibody,2
+PDB-CPX-203794,9kxs,1,peptide,1
+PDB-CPX-203795,9kut,1,antibody,2
+PDB-CPX-203795,9kvp,1,antibody,2
+PDB-CPX-203795,9kz2,1,antibody,2
+PDB-CPX-203795,9kz2,1,peptide,1
+PDB-CPX-203804,9dvc,1,antibody,2
+PDB-CPX-203805,9dvb,1,antibody,4
+PDB-CPX-203811,6e0o,1,short RNA,1
+PDB-CPX-203818,9wsv,1,antibody,2
+PDB-CPX-203818,9wsv,1,peptide,1
+PDB-CPX-203818,9wsx,1,antibody,2
+PDB-CPX-203818,9wsx,1,peptide,1
+PDB-CPX-203821,9kmd,1,peptide,1
+PDB-CPX-203823,9kyu,1,antibody,4
+PDB-CPX-203824,9wsw,1,peptide,1
+PDB-CPX-203825,9ky2,1,antibody,4
+PDB-CPX-203830,9njl,1,antibody,6
+PDB-CPX-203831,9wst,1,peptide,1
+PDB-CPX-203837,9l74,1,antibody,3
+PDB-CPX-203838,9wp9,1,antibody,3
+PDB-CPX-203842,9n2n,1,short DNA,4
+PDB-CPX-203902,9ill,1,short DNA,2
+PDB-CPX-203903,9pym,1,antibody,1
+PDB-CPX-203913,9i3h,1,peptide,60
+PDB-CPX-203959,3ux9,1,antibody,2
+PDB-CPX-203959,3ux9,2,antibody,2
+PDB-CPX-203961,7elh,1,short RNA,1
+PDB-CPX-203962,9nrx,1,antibody,3
+PDB-CPX-203963,9nry,1,antibody,3
+PDB-CPX-203963,9nrz,1,antibody,3
+PDB-CPX-203964,9y9w,1,peptide,6
+PDB-CPX-203964,9ybq,1,peptide,6
+PDB-CPX-203970,9ofo,1,antibody,6
+PDB-CPX-203970,9ofp,1,antibody,4
+PDB-CPX-203970,9ofq,1,antibody,2
+PDB-CPX-203971,5lqy,1,peptide,1
+PDB-CPX-203972,5lqx,1,peptide,1
+PDB-CPX-203973,7w2z,1,antibody,2
+PDB-CPX-203974,6ywe,1,tRNA,1
+PDB-CPX-203974,6ywe,1,mRNA,1
+PDB-CPX-203978,8s51,1,short RNA,1
+PDB-CPX-203980,8fr8,1,tRNA,1
+PDB-CPX-203980,8fr8,1,mRNA,1
+PDB-CPX-203982,8wat,1,short RNA,1
+PDB-CPX-203983,8wau,1,short RNA,1
+PDB-CPX-203984,8wav,1,short RNA,1
+PDB-CPX-203985,8way,1,short RNA,1
+PDB-CPX-203986,8wb0,1,short RNA,1
+PDB-CPX-203987,8waw,1,short RNA,1
+PDB-CPX-203988,8wax,1,short RNA,1
+PDB-CPX-204004,9k0z,1,tRNA,1
+PDB-CPX-204004,9k0z,1,mRNA,1
+PDB-CPX-204010,6ce0,1,antibody,4
+PDB-CPX-204011,8uxa,1,tRNA,1
+PDB-CPX-204011,8uxa,1,mRNA,1
+PDB-CPX-204012,9kqh,1,short DNA,1
+PDB-CPX-204013,9ku3,1,short RNA,6
+PDB-CPX-204030,9lho,1,antibody,12
+PDB-CPX-204044,9ew2,1,antibody,1
+PDB-CPX-204049,8i2g,1,antibody,1
+PDB-CPX-204050,7xow,1,antibody,2
+PDB-CPX-204055,9n9j,1,tRNA,2
+PDB-CPX-204074,9ot6,1,antibody,2
+PDB-CPX-204075,9j1p,1,antibody,1
+PDB-CPX-204076,7rbt,1,antibody,3
+PDB-CPX-204081,9vi9,1,antibody,2
+PDB-CPX-204081,9vi9,1,peptide,1
+PDB-CPX-204081,9vif,1,antibody,2
+PDB-CPX-204081,9vif,1,peptide,1
+PDB-CPX-204082,9jfk,1,antibody,1
+PDB-CPX-204082,9jfk,1,peptide,1
+PDB-CPX-204171,9qn8,1,short DNA,1
+PDB-CPX-204189,9lpe,1,short DNA,2
